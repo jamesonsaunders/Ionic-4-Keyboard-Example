@@ -1,6 +1,6 @@
 # Ionic 4 Keyboard Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Keyboard Tutorial](https://youtu.be/Nzu_H2kkg4A).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Keyboard Tutorial](https://youtu.be/Nzu_H2kkg4A) as well as the blog article [Ionic 4 Keyboard Tutorial](https://blog.jamibot.com/ionic-4-keyboard).
 
 [![Ionic 4 Keyboard Tutorial](https://img.youtube.com/vi/Nzu_H2kkg4A/maxresdefault.jpg)](https://youtu.be/Nzu_H2kkg4A)
 
