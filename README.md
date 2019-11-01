@@ -1,12 +1,12 @@
 # Ionic 4 Keyboard Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Keyboard Tutorial](https://youtu.be/Nzu_H2kkg4A) as well as the blog article [Ionic 4 Keyboard Tutorial](https://blog.jamibot.com/ionic-4-keyboard).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Ionic 4 Keyboard Tutorial](https://youtu.be/Nzu_H2kkg4A) as well as the blog article [Ionic 4 Keyboard Tutorial](https://blog.jamibot.com/ionic-4-keyboard).
 
 [![Ionic 4 Keyboard Tutorial](https://img.youtube.com/vi/Nzu_H2kkg4A/maxresdefault.jpg)](https://youtu.be/Nzu_H2kkg4A)
 
 A minimal example of how to get the Ionic 4 Keyboard plugin working on your own site.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development tutorials.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web & mobile development tutorials.
 
 ## Installation
 
